@@ -21,3 +21,7 @@ function factorial(n){
     return fact
 }
 console.log(factorial(4)) //24
+
+//trace execution!
+
+//This is O(n) Linear time complexity. 
