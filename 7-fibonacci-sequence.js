@@ -4,7 +4,7 @@ function fibonacci(n){
 //the previous two numbers will be the index minus one and minus two respectively.         
         fib[i]=fib[i-1]+[i-2]
     }
-
+    return fib
     
 }
 
