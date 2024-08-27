@@ -8,6 +8,4 @@ function fibonacci(n){
     
 }
 
-fibonacci(2)
-fibonacci(3)
-fibonacci(7)
+console.log(fibonacci(2))
