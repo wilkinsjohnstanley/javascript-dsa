@@ -16,6 +16,6 @@ function isPowerOfTwo(n) {
 }
 
 console.log(isPowerOfTwo(0)) //Is 0 a factor of two?
-console.log(isPowerOfTwo(1)) // returns true
+console.log(isPowerOfTwo(1)) // returns true   
 console.log(isPowerOfTwo(2)) // returns true
 console.log(isPowerOfTwo(3)) //returns false
